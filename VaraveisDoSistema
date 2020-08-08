@@ -1,0 +1,29 @@
+PATH:
+C:\Users\Lucas\anaconda3;C:\Users\Lucas\anaconda3\Library\mingw-w64\bin;C:\Users\Lucas\anaconda3\Library\usr\bin;C:\Users\Lucas\anaconda3\Library\bin;C:\Users\Lucas\anaconda3\Scripts
+
+HADOOP_HOME:
+c:\Hadoop
+
+JAVA_HOME:
+C:\jdk
+
+JRE_HOME:
+C:\jre
+
+Path:
+;%JAVA_HOME%\bin;%JRE_HOME%\bin;%HADOOP_HOME%\bin\;%SPARK_HOME%\bin\
+
+PYSPARK_DRIVER_PYTHON:
+Jupyter
+
+PYSPARK_DRIVER_PYTHON_OPTS:
+notebook
+
+SPARK_HOME:
+C:\Spark
+
+----------------------------------------------------------------------------
+
+
+c:\projetos>jupyter notebook
+C:\Spark\projetos>Jupyter notebook
